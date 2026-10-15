@@ -10,10 +10,14 @@ que resolvem problemas reais de negócios.
 
 ### Produtos
 
-| | |
-|---|---|
-| **[Arthimo](https://arthimo.com)** | Cria o aplicativo da sua loja virtual Tray, Shopify ou Nuvemshop e publica na App Store e no Google Play. Push, recompra e um canal de vendas que é só seu. |
+<a href="https://arthimo.com"><img src="arthimo.png" alt="Arthimo" width="64" height="64" align="left"></a>
+
+**[Arthimo](https://arthimo.com)**<br>
+Cria o aplicativo da sua loja virtual Tray, Shopify ou Nuvemshop e publica na
+App Store e no Google Play. Push, recompra e um canal de vendas que é só seu.
+
+<br clear="left">
 
 ### Fale com a gente
 
-📸 Instagram: [@libertydigital_](https://www.instagram.com/libertydigital_/)
+<a href="https://www.instagram.com/libertydigital_/"><img src="https://img.shields.io/badge/Instagram-@libertydigital__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @libertydigital_"></a>
